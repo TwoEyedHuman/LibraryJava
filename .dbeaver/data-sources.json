@@ -1,0 +1,81 @@
+{
+	"folders": {},
+	"connections": {
+		"postgres-jdbc-16ce543f4c8-576fa69317d373e8": {
+			"provider": "postgresql",
+			"driver": "postgres-jdbc",
+			"name": "PostgreSQL - drexel",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "5432",
+				"database": "drexel",
+				"url": "jdbc:postgresql://localhost:5432/drexel",
+				"type": "dev",
+				"provider-properties": {
+					"@dbeaver-show-non-default-db@": "true",
+					"@dbeaver-show-template-db@": "false"
+				},
+				"handlers": {}
+			}
+		},
+		"postgres-jdbc-16ce5492286-7347248bcbed601b": {
+			"provider": "postgresql",
+			"driver": "postgres-jdbc",
+			"name": "PostgreSQL - drexel 2",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "5432",
+				"database": "drexel",
+				"url": "jdbc:postgresql://localhost:5432/drexel",
+				"type": "dev",
+				"provider-properties": {
+					"@dbeaver-show-non-default-db@": "false",
+					"@dbeaver-show-template-db@": "false"
+				},
+				"handlers": {}
+			}
+		},
+		"postgres-jdbc-16ce54a3bcb-f238e8a5e4fd909": {
+			"provider": "postgresql",
+			"driver": "postgres-jdbc",
+			"name": "PostgreSQL - drexel 3",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "5432",
+				"database": "drexel",
+				"url": "jdbc:postgresql://localhost:5432/drexel",
+				"type": "dev",
+				"provider-properties": {
+					"@dbeaver-show-non-default-db@": "true",
+					"@dbeaver-show-template-db@": "false"
+				},
+				"handlers": {}
+			}
+		},
+		"postgres-jdbc-16ce54dcbae-649c8c58577d9f79": {
+			"provider": "postgresql",
+			"driver": "postgres-jdbc",
+			"name": "PostgreSQL - drexel 4",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "5432",
+				"database": "drexel",
+				"url": "jdbc:postgresql://localhost:5432/drexel",
+				"type": "dev",
+				"provider-properties": {
+					"@dbeaver-show-non-default-db@": "true",
+					"@dbeaver-show-template-db@": "false"
+				},
+				"handlers": {}
+			}
+		}
+	}
+}

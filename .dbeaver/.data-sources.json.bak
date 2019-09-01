@@ -1,0 +1,24 @@
+{
+	"folders": {},
+	"connections": {
+		"postgres-jdbc-16ce543f4c8-576fa69317d373e8": {
+			"provider": "postgresql",
+			"driver": "postgres-jdbc",
+			"name": "PostgreSQL - drexel",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "5432",
+				"database": "drexel",
+				"url": "jdbc:postgresql://localhost:5432/drexel",
+				"type": "dev",
+				"provider-properties": {
+					"@dbeaver-show-non-default-db@": "true",
+					"@dbeaver-show-template-db@": "false"
+				},
+				"handlers": {}
+			}
+		}
+	}
+}
